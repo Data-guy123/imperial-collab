@@ -1,0 +1,3 @@
+Put your capstone ideas below with you name in brackets. I've done the first one here:
+
+- Produce a model for predicting ticket sales for live events based on past sales, proposed artist bookings and customer profiles. (Neil)
