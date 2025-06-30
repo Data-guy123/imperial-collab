@@ -3,3 +3,4 @@ Put your capstone ideas below with you name in brackets. I've done the first one
 - Produce a model for predicting ticket sales for live events based on past sales, proposed artist bookings and customer profiles. (Neil)
 - Three allocation models—imperfect FEFO, perfect FEFO, and optimization-based—are compared to reveal the strategic consequences of inventory management operations. (Filippo)
 - Analyze relationship between adult mortality rate and climate-related disasters/surface temperature change (João)
+- Exploring the efficiency of Horizon 2020 research funding by trying to predict and explain outcomes like publications/citations and patents using machine learning (Joe Wright)
